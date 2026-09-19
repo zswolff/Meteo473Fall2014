@@ -1,1 +1,2 @@
-This milestone creates an NcDump of netcdf files Wyoming KingAir Research flight log metadata, as well as allowing the user to select variables to print into an ASCII text file. 
+This milestone creates an NcDump of netcdf files Wyoming KingAir Research flight log metadata,
+as well as allowing the user to select variables to print into an ASCII text file. 
